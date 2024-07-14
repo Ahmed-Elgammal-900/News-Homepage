@@ -16,8 +16,8 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-home-news-page-with-htmlcss-and-javascript-fZ9lrKP_VZ)
+- Live Site URL: [Live Site](https://ahmed-elgammal-900.github.io/News-Homepage/)
 
 ## Author
 
